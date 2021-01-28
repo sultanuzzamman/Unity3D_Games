@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Plugins\Android\AndroidManifest.xml">
+    <Files>
+      <File FileName="Assets\Ad_Script\CreateAdsPlugin.cs" Line="14" Column="17" />
+      <File FileName="..\..\..\Existing Working\RealPlayFootballWorld_new\Assets\Plugins\Android\ChartboostSDK\AndroidManifest.xml" Line="6" Column="5" />
+      <File FileName="..\..\..\Existing Working\RealPlayFootballWorld_new\Assets\Plugins\Android\AndroidManifest.xml" Line="45" Column="70" />
+      <File FileName="..\..\..\Existing Working\RealPlayFootballWorld_new\Assets\Plugins\Android\Heyzap\AndroidManifest.xml" Line="17" Column="79" />
+      <File FileName="..\..\..\Existing Working\RealPlayFootballWorld_new\Assets\Plugins\Android\google-play-services_lib\AndroidManifest.xml" Line="15" Column="40" />
+      <File FileName="Assets\Plugins\Android\AndroidManifest.xml" Line="29" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

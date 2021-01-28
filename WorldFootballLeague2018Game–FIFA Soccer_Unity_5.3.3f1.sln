@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6AF77BC6-646D-EE0D-FB34-2941EA538AF6}") = "WorldFootballLeague2018Game–FIFA Soccer_Unity_5.3.3f1", "Assembly-CSharp-firstpass.csproj", "{B974532B-83E2-0144-085A-9CC46B7493CC}"
+EndProject
+Project("{6AF77BC6-646D-EE0D-FB34-2941EA538AF6}") = "WorldFootballLeague2018Game–FIFA Soccer_Unity_5.3.3f1", "Assembly-CSharp.csproj", "{622B290B-577B-FFBA-F971-0F644D0EE611}"
+EndProject
+Project("{6AF77BC6-646D-EE0D-FB34-2941EA538AF6}") = "WorldFootballLeague2018Game–FIFA Soccer_Unity_5.3.3f1", "Assembly-CSharp-Editor.csproj", "{C76F7700-E357-486B-7F02-E153204E3BA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B974532B-83E2-0144-085A-9CC46B7493CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B974532B-83E2-0144-085A-9CC46B7493CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B974532B-83E2-0144-085A-9CC46B7493CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B974532B-83E2-0144-085A-9CC46B7493CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{622B290B-577B-FFBA-F971-0F644D0EE611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622B290B-577B-FFBA-F971-0F644D0EE611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622B290B-577B-FFBA-F971-0F644D0EE611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622B290B-577B-FFBA-F971-0F644D0EE611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C76F7700-E357-486B-7F02-E153204E3BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C76F7700-E357-486B-7F02-E153204E3BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C76F7700-E357-486B-7F02-E153204E3BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C76F7700-E357-486B-7F02-E153204E3BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

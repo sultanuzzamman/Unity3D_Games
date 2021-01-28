@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GUI_MainMenu.cs">
+    <Files>
+      <File FileName="Assets\PauseController.cs" Line="28" Column="50" />
+      <File FileName="Assets\Scripts\ButtonAction.cs" Line="290" Column="9" />
+      <File FileName="Assets\Scripts\GUI_MainMenu.cs" Line="32" Column="24" />
+      <File FileName="Assets\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PCornerKickHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets\animationControllernew.cs" Line="1" Column="1" />
+      <File FileName="Assets\Ad_Scripts\AdInitialization.cs" Line="1" Column="1" />
+      <File FileName="Assets\Ad_Scripts\AdsManager.cs" Line="206" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

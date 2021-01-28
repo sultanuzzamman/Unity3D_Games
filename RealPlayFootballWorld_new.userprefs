@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\splashWindow.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ButtonAction.cs" Line="227" Column="34" />
+      <File FileName="Assets\Ad_Script\AdmobBanner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Ad_Script\AdsAPI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\Heyzap\HeyzapAds.cs" Line="1" Column="1" />
+      <File FileName="Assets\PauseController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\UnityAds\Scripts\Advertisements\VideoAds\UnityAdsAndroid.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\UnityAds\Scripts\Advertisement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\UnityAds\Scripts\Advertisements\VideoAds\UnityAds.cs" Line="1" Column="1" />
+      <File FileName="Assets\splashWindow.cs" Line="19" Column="4" />
+      <File FileName="Assets\Scripts\AudioManager.cs" Line="57" Column="5" />
+      <File FileName="Assets\Chartboost\Scripts\Chartboost.cs" Line="133" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ButtonAction.cs">
+    <Files>
+      <File FileName="Assets\Ad_Scripts\AdsManager.cs" Line="12" Column="2" />
+      <File FileName="Assets\Scripts\ButtonAction.cs" Line="129" Column="58" />
+      <File FileName="Assets\PauseController.cs" Line="28" Column="50" />
+      <File FileName="Assets\Scripts\GUI_MainMenu.cs" Line="31" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
